@@ -67,25 +67,27 @@ h1, h2, h3, h4, h5 {
 
 nav {
 	margin: auto;
+	width: 876px;
 }
 
 nav a {
 	text-decoration: none;
 	color: grey;
-	padding: 20px;
+	padding: 25px;
 }
 
 nav .logo {
-	padding-left: 54px;
+	padding-left: 50px;
 }
 
 header {
 	line-height: 0.75;
 	margin: 50px 0px 50px 100px;
+	width: 876px;
 }
 
 header .title {
-	font-size: 60px;
+	font-size: 68px;
 	text-align: center;
 	display: inline-block;
 	margin: 0px 15px;
@@ -100,7 +102,7 @@ header .title button {
 
 header img {
 	display: inline-block;
-	width: 45%;
+	width: 35%;
 }
 
 .top-content {
